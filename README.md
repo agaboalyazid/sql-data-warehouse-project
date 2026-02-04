@@ -15,6 +15,7 @@ The project includes:
 
 ## 🏗️ Data Architecture
 The project follows the **Medallion Architecture** pattern:
+![Architecture](https://github.com/user-attachments/assets/f288769a-0f5f-46de-af5c-f8804786f26e)
 
 ### 🥉 Bronze Layer
 - Stores raw data as received from source systems
